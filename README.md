@@ -74,14 +74,23 @@ Transform Bedwars stat tracking with Statalytics - the unmatched stats bot with 
 
 | | |
 |:-------------------------:|:-------------------------:|
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/quests.png?width=400&height=293"></div> **Quest Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/projected.png?width=400&height=293"></div> **Projected Stats** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/bedwars.png?width=400&height=293"></div> **Bedwars Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/year.png?width=400&height=293"></div> **Next Years Stats** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/compare.png?width=400&height=293"></div> **Stat Comparison** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/session.png?width=400&height=293"></div> **Session Stats** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/historical.png?width=400&height=293"></div> **Historic Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/historical.png?width=400&height=293"></div> **Stat Lookback** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/difference.png?width=400&height=293"></div> **Stat Differences** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/resources.png?width=400&height=293"></div> **Resource Stats** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/practice.png?width=400&height=293"></div> **Practice Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/milestones.png?width=400&height=293"></div> **Milestone Stats** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/ratios.png?width=400&height=293"></div> **Average Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/activecosmetics.png?width=400&height=293"></div> **Active Cosmetics** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/mostplayed.png?width=400&height=263"></div> **Most Played Stats** | <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/shop.png?width=400&height=217"></div> **Quick Buy Viewer** |
-| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/hotbar.png?width=400&height=247"></div> **Hotbar Preference Viewer** |
+|  **Quest Stats**  |  **Projected Stats** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/quests.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/projected.png?width=400&height=293"></div>|
+| **Bedwars Stats** |  **Next Years Stats** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/bedwars.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/year.png?width=400&height=293"></div>|
+|  **Stat Comparison** |  **Session Stats** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/compare.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/session.png?width=400&height=293"></div>|
+| **Historic Stats** | **Stat Lookback** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/historical.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/historical.png?width=400&height=293"></div>|
+| **Stat Differences** | **Resource Stats** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/difference.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/resources.png?width=400&height=293"></div>|
+| **Practice Stats** | **Milestone Stats** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/practice.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/milestones.png?width=400&height=293"></div>|
+| **Average Stats** | **Active Cosmetics** |
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/ratios.png?width=400&height=293"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/activecosmetics.png?width=400&height=293"></div>|
+| **Most Played Stats** | **Quick Buy Viewer** 
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/mostplayed.png?width=400&height=263"></div>| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/shop.png?width=400&height=217"></div>|
+|**Hotbar Preference Viewer** ||
+| <div style="width: 400px; display: flex; flex-direction: column"><img src="https://statalytics.net/image/features/hotbar.png?width=400&height=247"></div>|
 
 </div>
